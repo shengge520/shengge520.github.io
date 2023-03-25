@@ -9,7 +9,7 @@ window.onload = function() {
     id: 'container',
     blogId: '15005-1605711320163-146',
     name: 'King',
-    qrcode: 'http://pic.yupoo.com/itclan/7c9fd976/bccf3846.jpg',
+    qrcode: 'https://s1.ax1x.com/2023/03/25/ppDCn6P.jpg',
     keyword: '验证码',
   });
 };
